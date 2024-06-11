@@ -1,6 +1,6 @@
 {
-    "name": "test_web",
-    "short_name": "test_web",
+    "name": "store_coupon_search_admin",
+    "short_name": "store_coupon_search_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
